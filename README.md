@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/xpc1024/easy-es">
-   <img alt="East-Es-Logo" src="https://iknow.hs.net/6361ec1d-edca-4358-98c1-e7a309e15a39.png">
+   <img alt="East-Es-Logo" src="https://iknow.hs.net/042dd639-5bfa-410f-968f-8bbceb8d8ca7.png">
   </a>
 </p>
 
